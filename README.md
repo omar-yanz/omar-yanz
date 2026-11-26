@@ -14,6 +14,7 @@ Desarrollador Full Stack Java | Especialista en Inventarios y Auditoría Interna
  ![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge)
 
 * Frontend:
+  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
