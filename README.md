@@ -16,6 +16,7 @@ Desarrollador Full Stack Java | Especialista en Inventarios y Auditoría Interna
 * Frontend:
   
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 * Bases de Datos:
@@ -39,6 +40,7 @@ ERP y Análisis Operativo:
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=omar-yanz)](https://git.io/streak-stats)
+
 ![Estadísticas](https://github-stats-extended.vercel.app/api?username=omar-yanz&show_icons=true&theme=tokyonight)
 
 
