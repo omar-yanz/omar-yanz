@@ -38,8 +38,7 @@ ERP y Análisis Operativo:
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=omar-yanz)](https://git.io/streak-stats)
-
- ![Estadísticas](https://github-stats-extended.vercel.app/api?username=omar-yanz&show_icons=true&theme=tokyonight)
+![Estadísticas](https://github-stats-extended.vercel.app/api?username=omar-yanz&show_icons=true&theme=tokyonight)
 
 
 
