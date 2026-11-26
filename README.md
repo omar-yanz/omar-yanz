@@ -42,3 +42,16 @@ ERP y Análisis Operativo:
  ![Estadísticas](https://github-stats-extended.vercel.app/api?username=omar-yanz&show_icons=true&theme=tokyonight)
 
 
+
+
+
+
+
+
+
+
+
+
+    
+
+
